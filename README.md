@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Debadrita
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Deep Learning and Python
-- 📫 How to reach me email: debadritachattopadhyay03@gmail.com
+- 📫 How to reach me debadritachattopadhyay03@gmail.com
 - 😄 Pronouns: she/her
 
 
